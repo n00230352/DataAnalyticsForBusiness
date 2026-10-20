@@ -1,4 +1,4 @@
-## AI Log
+## AI Logs
 
 ### Input 1
 Import the Python libraries needed for retail data analysis, including Pandas, NumPy, Matplotlib and Seaborn. Add a short comment explaining what each library is used for.
