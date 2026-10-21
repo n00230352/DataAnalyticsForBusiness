@@ -24,3 +24,11 @@ GitHub Copilot generated code to check the data typeS in the dataset, identified
 
 ### Reflection
 
+### Input 4
+Check how many duplicate rows are in the retail_outlets dataset, remove the duplicate rows while keeping the first occurrence, and display the number of removed duplicates and the remaining rows.
+
+### Output
+GitHub Copilot generated code to check how many rows were duplicates, then delete them while keepig the first occurrence, then displayed the amount of remaining rows.
+
+### Reflection
+
